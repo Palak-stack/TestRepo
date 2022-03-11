@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+//this is a directory
 //For an example it is 
  public class calculator
   {
